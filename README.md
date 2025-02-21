@@ -23,5 +23,5 @@ melakukan modifikasi sesuai dengan perintah
 
 ### Tugas
 Pada tugas ini membuat todolist menggunakan state dan props kemudian dimodifikasi dengan adannya form input dan delete
-![](https://github.com/03Yuma/praktikum2-react/blob/main/image/TugasPraktikum2.mp4)
+![](image/TugasPraktikum2.mp4)
 
